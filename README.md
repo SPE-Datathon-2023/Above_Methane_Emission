@@ -59,11 +59,12 @@ The model has been trained using `Adam` optimizer, `MSE` loss, for 50 epochs, wi
 
 ## Notebooks
 
-The two notebooks in this repo contain the following functions : 
+The notebooks in this repo contain the following functions : 
 
-- Main model training and inference
+- Dataset preprocessing
 - Dataset augmentation - png generation, background swapping, empty image generation
 - Png image background removal - two approaches, either with manual value tuning, or RGB key search. 
+- Main model training and inference
 
 
 ## Run it
